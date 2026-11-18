@@ -1,0 +1,8 @@
+SITE PAMÉLA GOUTONDJI — HTML
+
+HÉBERGEMENT : décompressez puis déposez le contenu de ce dossier dans le dossier public de votre hébergeur (public_html, www ou équivalent). index.html doit être à la racine. Conservez les noms des autres fichiers. Aucune installation ni compilation.
+Cloudflare Pages : aucune commande de build, ce dossier constitue la sortie à publier.
+
+MODIFICATIONS : textes bilingues dans site.js, structure dans index.html, styles dans style.css.
+CONTACT : les boutons ouvrent un courriel à pamelagoutondji@protonmail.com. Aucun calendrier de réservation ni formulaire n’est connecté.
+Le site est indépendant de ChatGPT. Les images et la signature Éclora cliquable sont incluses.
